@@ -21,6 +21,7 @@ twitter_username: AdrianGSieira
 github_username: gonzalezsieira
 minimal_mistakes_skin: default
 search: false
+show_date: false
 
 # Build settings
 markdown: kramdown
