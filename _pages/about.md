@@ -1,12 +1,12 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 ---
 
-# About me
 I am an Artificial Intelligence researcher at the [Research Centre in Intelligent Technologies (CiTIUS)](http://www.citius.usc.es/), currently working on object detection and image classification using **computer vision** and **deep learning** techniques.
 
 I received my **PhD in Computer Science and Artificial Intelligence** from the [University of Santiago de Compostela](http://www.usc.es/) in 2020. My research was centered in safe **motion planning** and **autonomous navigation** for mobile robots and UAVs. I have also been with the [Human Machine Interaction (HMI)](https://www.utwente.nl/en/eemcs/hmi/) group at the [University of Twente](https://www.utwente.nl/en/), working on socially aware motion planning.
+
 
 # Curriculum
 Here is a summary of my resume and what I have been working on in the last years. If you are curious about my research activities, they are detailed [in this other page](/research).
